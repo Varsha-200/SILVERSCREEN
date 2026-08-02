@@ -193,6 +193,17 @@ Through this project, I gained practical experience in:
 
 ---
 
+
+## 👥 Team
+
+SILVERSCREEN+ was collaboratively designed and developed by:
+
+- **Varsha S Panicker**
+- **Rizia Sara Prabin**
+
+The project was created for the **No Code Ninja Web Designing Competition**, where our team secured **2nd Prize**.
+
+
 ## 🏅 Recognition
 
 SILVERSCREEN+ secured **2nd Prize in the No Code Ninja Web Designing Competition**.
