@@ -18,7 +18,7 @@ SILVERSCREEN+ was developed as part of a competitive web-design challenge with a
 
 ## 🖥️ Project Preview
 
-![SILVERSCREEN+ Website Preview](silverscreen-preview.jpg)
+![SILVERSCREEN+ Website Preview](silverscreen-preview.jpeg)
 
 ---
 
