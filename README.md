@@ -2,9 +2,9 @@
 
 > 🥈 **2nd Prize Winner — No Code Ninja Web Designing Competition**
 
-SILVERSCREEN+ is an interactive movie-streaming platform interface developed for the **No Code Ninja Web Designing Competition**, where the project secured **2nd Prize**.
+SILVERSCREEN+ is an interactive movie-streaming platform interface collaboratively designed and developed by **Varsha S Panicker and Rizia Sara Prabin** for the **No Code Ninja Web Designing Competition**, where our team secured **2nd Prize**.
 
-The project focuses on creating an engaging movie-browsing experience through a visually appealing frontend with movie discovery, genre filtering, search, detailed movie information, and trailer integration.
+The project focuses on creating an engaging and visually appealing movie-browsing experience using frontend web technologies.
 
 ---
 
@@ -12,7 +12,9 @@ The project focuses on creating an engaging movie-browsing experience through a 
 
 ### 🥈 2nd Prize — No Code Ninja Web Designing Competition
 
-SILVERSCREEN+ was developed as part of a competitive web-design challenge with a focus on **UI/UX, visual presentation, creativity, and frontend interactivity**.
+SILVERSCREEN+ was developed as part of a competitive web-design challenge with a focus on **creativity, UI/UX, visual presentation, and frontend interactivity**.
+
+Our project secured **2nd Prize** in the competition.
 
 ---
 
@@ -26,45 +28,52 @@ SILVERSCREEN+ was developed as part of a competitive web-design challenge with a
 
 SILVERSCREEN+ is a frontend prototype inspired by modern movie-streaming platforms.
 
-The interface allows users to explore movies through an interactive browsing experience featuring movie cards, search functionality, genre filters, ratings, cast information, detailed movie views, and embedded trailers.
+The application provides an interactive interface where users can browse movies, search for titles, filter content by genre, explore movie information, view cast details, and watch embedded trailers.
 
-The project demonstrates how **HTML, CSS, and JavaScript** can be combined to create an engaging entertainment-focused web interface.
+The project demonstrates how **HTML, CSS, and JavaScript** can be combined to create an engaging entertainment-focused web experience.
 
 ---
 
 ## ✨ Features
 
 ### 🎥 Movie Browsing
+
 - Browse a collection of movies
 - Interactive movie cards
 - Movie posters and information
 - Visually engaging browsing interface
 
 ### 🔍 Movie Search
+
 - Search interface for discovering movies
 - Makes navigating the available movie collection easier
 
 ### 🎭 Genre Filtering
+
 - Filter movies based on genre
 - Provides a more organized movie-discovery experience
 
 ### 🎬 Movie Details
+
 Users can explore additional information about selected movies, including:
 
-- Movie description
+- Movie descriptions
 - Ratings
 - Cast information
 - Actor images
 - Trailer content
 
 ### 🪟 Interactive Movie Modal
-Movie information is presented through an interactive modal, allowing users to explore details without leaving the main browsing interface.
+
+Movie information is presented through an interactive modal, allowing users to explore additional details without leaving the main browsing interface.
 
 ### ▶️ Trailer Integration
-Movie trailers are integrated using embedded YouTube content.
+
+Movie trailers are integrated into the interface using embedded YouTube content.
 
 ### ✨ Splash Screen
-SILVERSCREEN+ includes an introductory splash screen that transitions users into the main movie interface.
+
+SILVERSCREEN+ includes an introductory splash screen that transitions users into the main movie-browsing interface.
 
 ---
 
@@ -101,17 +110,23 @@ Launch SILVERSCREEN+
 ## 🛠️ Technologies Used
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 
-### Additional Technologies
+### Web Development Concepts
+
 - Responsive Web Design
-- Embedded YouTube Content
-- Interactive Modals
 - DOM Manipulation
+- Interactive UI Components
+- Modal-Based Content
+- Search and Filtering
+- Multimedia Integration
+- YouTube Embed Integration
 
 ### Development Tools
+
 - Git
 - GitHub
 - Visual Studio Code
@@ -171,28 +186,9 @@ splash.html
 
 in a modern web browser.
 
-The splash screen will automatically transition into the main SILVERSCREEN+ interface.
+The splash screen will transition into the main SILVERSCREEN+ interface.
 
 ---
-
-## 💡 Key Learnings
-
-Through this project, I gained practical experience in:
-
-- Frontend web development
-- HTML, CSS, and JavaScript
-- UI/UX design
-- Creating interactive web interfaces
-- Search and filtering functionality
-- Designing movie-card layouts
-- Modal-based content presentation
-- Embedded multimedia integration
-- Responsive web design
-- Working under competition constraints
-- Transforming a design concept into a functional prototype
-
----
-
 
 ## 👥 Team
 
@@ -203,12 +199,34 @@ SILVERSCREEN+ was collaboratively designed and developed by:
 
 The project was created for the **No Code Ninja Web Designing Competition**, where our team secured **2nd Prize**.
 
+---
+
+## 💡 Key Learnings
+
+Through this project, we gained practical experience in:
+
+- Frontend web development
+- HTML, CSS, and JavaScript
+- UI/UX design
+- Building interactive web interfaces
+- Search and filtering functionality
+- Designing movie-card layouts
+- Modal-based content presentation
+- Embedded multimedia integration
+- Responsive web design
+- Collaborative web development
+- Working under competition constraints
+- Transforming a design concept into a functional prototype
+
+---
 
 ## 🏅 Recognition
 
-SILVERSCREEN+ secured **2nd Prize in the No Code Ninja Web Designing Competition**.
+### 🥈 2nd Prize — No Code Ninja Web Designing Competition
 
-This achievement recognized the project's web design, visual presentation, creativity, and interactive movie-browsing experience.
+SILVERSCREEN+ was developed collaboratively by **Varsha S Panicker and Rizia Sara Prabin** and secured **2nd Prize** in the competition.
+
+The project focused on combining visual design, creativity, and frontend interactivity to create an engaging movie-browsing experience.
 
 ---
 
@@ -221,7 +239,7 @@ Potential enhancements include:
 - Watchlists
 - Movie database/API integration
 - Dynamic movie recommendations
-- Ratings and reviews
+- User ratings and reviews
 - Recently watched history
 - Backend and database integration
 - Improved mobile responsiveness
@@ -230,8 +248,16 @@ Potential enhancements include:
 
 ---
 
+## ⚠️ Project Scope
+
+SILVERSCREEN+ was developed as a **web-design competition prototype**.
+
+The project demonstrates the design and frontend experience of a movie-streaming platform and does not provide actual movie-streaming services.
+
+---
+
 ## 📄 Disclaimer
 
-SILVERSCREEN+ was developed as a **web-design competition project** for educational and demonstration purposes.
+SILVERSCREEN+ was developed for educational and competition purposes.
 
-It is a frontend prototype and does not provide actual movie-streaming services. Movie names, posters, trailers, and related media belong to their respective copyright holders.
+Movie names, posters, trailers, actor images, and related media belong to their respective copyright holders. This project is not affiliated with or endorsed by the featured films, studios, actors, or streaming platforms.
